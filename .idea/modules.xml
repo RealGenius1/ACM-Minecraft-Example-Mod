@@ -17,6 +17,16 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/org.acm.onu.acmexamplemod.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/org.acm.onu.acmexamplemod.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/org.acm.onu.acmexamplemod.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/org.acm.onu.acmexamplemod.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/org.acm.onu.acmexamplemod.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/org.acm.onu.acmexamplemod.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/org.acm.onu.acmexamplemod.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/org.acm.onu.acmexamplemod.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.test.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "acmexamplemod",
+  "version": "1.0.0",
+  "name": "ACM Example Mod",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "",
+    "issues": "",
+    "sources": ""
+  },
+  "license": "UNLICENSE",
+  "icon": "assets/acmexamplemod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.acm.onu.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "org.acm.onu.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.13",
+    "minecraft": ">=1.20 <=1.20.4",
+    "java": ">=17",
+    "architectury": ">=9.0.0",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="579d977c-c5a5-4acf-b5c8-f48fd3cd9145" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/acmexamplemod.fabric.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/acmexamplemod.fabric.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/forge/acmexamplemod.forge.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge/acmexamplemod.forge.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/neoforge/acmexamplemod.neoforge.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/neoforge/acmexamplemod.neoforge.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___forge__forge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___forge__forge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___quilt__quilt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___quilt__quilt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___forge__forge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___forge__forge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___quilt__quilt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___quilt__quilt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +54,30 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="acmexamplemod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="acmexamplemod" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="acmexamplemod" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="acmexamplemod" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="loom" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -62,9 +94,21 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RealGenius1&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="1c810d5b-a700-4f91-b74c-d49348e7362d" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/polarbearsam/ACM-Minecraft-Example-Mod.git&quot;,
+    &quot;accountId&quot;: &quot;3ee4a509-756c-4d9e-982a-48dc95915ea4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -74,32 +118,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.ACM-Minecraft-Example-Mod [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ACM-Minecraft-Example-Mod [wrapper --gradle-version 8.13].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ACM-Minecraft-Example-Mod:fabric [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ACM-Minecraft-Example-Mod:forge [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ACM-Minecraft-Example-Mod:neoforge [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ACM-Minecraft-Example-Mod:quilt [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:fabric [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:forge [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:neoforge [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:quilt [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Development Files/Mods/ACM-Minecraft-Example-Mod/tutorial_assets&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.ACM-Minecraft-Example-Mod [build].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod [wrapper --gradle-version 8.13].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod:fabric [runClient].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod:forge [build].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod:forge [runClient].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod:neoforge [runClient].executor": "Run",
+    "Gradle.ACM-Minecraft-Example-Mod:quilt [runClient].executor": "Run",
+    "Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template [clean].executor": "Run",
+    "Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:fabric [runClient].executor": "Run",
+    "Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:forge [runClient].executor": "Run",
+    "Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:neoforge [runClient].executor": "Run",
+    "Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template:quilt [runClient].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Development Files/Mods/ACM-Minecraft-Example-Mod/tutorial_assets",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template [clean]">
+}]]></component>
+  <component name="RunManager" selected="Gradle.ACM-Minecraft-Example-Mod:fabric [runClient]">
     <configuration name="ACM-Minecraft-Example-Mod:fabric [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -144,10 +190,10 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ACM-Minecraft-Example-Mod:neoforge [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ACM-Minecraft-Example-Mod:forge [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/neoforge" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/forge" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -166,10 +212,10 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ACM-Minecraft-Example-Mod:quilt [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ACM-Minecraft-Example-Mod:neoforge [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/quilt" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/neoforge" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -212,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:fabric [runClient]" />
+        <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:forge [runClient]" />
         <item itemvalue="Gradle.acmexamplemod-1.20.4-fabric-quilt-neoforge-forge-template [clean]" />
         <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:neoforge [runClient]" />
         <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:forge [build]" />
-        <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:quilt [runClient]" />
-        <item itemvalue="Gradle.ACM-Minecraft-Example-Mod:fabric [runClient]" />
       </list>
     </recent_temporary>
   </component>
