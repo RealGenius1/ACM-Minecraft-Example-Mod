@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="579d977c-c5a5-4acf-b5c8-f48fd3cd9145" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/resources/assets/acmexamplemod/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/resources/assets/acmexamplemod/models/item/cotc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/acmexamplemod.fabric.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/acmexamplemod.fabric.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/forge/acmexamplemod.forge.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge/acmexamplemod.forge.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/neoforge/acmexamplemod.neoforge.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/neoforge/acmexamplemod.neoforge.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___forge__forge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___forge__forge.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___quilt__quilt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___quilt__quilt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/quilt/org.acm.onu.acmexamplemod.quilt.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___forge__forge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___forge__forge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___quilt__quilt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___quilt__quilt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/acm/onu/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/acm/onu/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +115,10 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2vakQ1z456yLAZLARCEMX9zMb8M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -142,9 +145,18 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sptho\OneDrive\Documents\GitHub\ACM-Minecraft-Example-Mod\common\src\main\resources\assets\acmexamplemod\textures\item" />
+      <recent name="C:\Users\sptho\OneDrive\Documents\GitHub\ACM-Minecraft-Example-Mod\common\src\main\resources\assets\acmexamplemod\models\item" />
+      <recent name="C:\Users\sptho\OneDrive\Documents\GitHub\ACM-Minecraft-Example-Mod\common\src\main\resources\assets\acmexamplemod\textures\block" />
+      <recent name="C:\Users\sptho\OneDrive\Documents\GitHub\ACM-Minecraft-Example-Mod\common\src\main\resources\assets\acmexamplemod\textures\COTC Logo" />
+      <recent name="C:\Users\sptho\OneDrive\Documents\GitHub\ACM-Minecraft-Example-Mod\common\src\main\resources\assets\acmexamplemod" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.ACM-Minecraft-Example-Mod:fabric [runClient]">
     <configuration name="ACM-Minecraft-Example-Mod:fabric [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>

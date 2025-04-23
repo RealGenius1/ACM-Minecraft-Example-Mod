@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/acmexamplemod.quilt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/org.acm.onu.acmexamplemod.common.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/org.acm.onu.acmexamplemod.fabric.main.iml" />
